@@ -24,11 +24,8 @@ plotly==5.18.0
 
 nltk==3.8.1
 sumy==0.11.0
-spacy==3.7.5
-transformers==4.54.1
 
-opencv-python==4.9.0.80
-opencv-python-headless==4.10.0.84
+opencv-python-headless==4.10.0.84  # Only this, not full opencv-python
 Pillow==10.4.0
 
 textblob==0.18.0.post0
@@ -37,6 +34,3 @@ tqdm==4.66.5
 regex==2024.11.6
 requests==2.32.3
 python-dotenv==1.0.1
-
-protobuf==4.25.6
-PyYAML==6.0.1
