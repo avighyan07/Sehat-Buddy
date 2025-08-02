@@ -19,3 +19,4 @@ werkzeug
 wtforms
 networkx
 sumy
+transformers==4.35.2
